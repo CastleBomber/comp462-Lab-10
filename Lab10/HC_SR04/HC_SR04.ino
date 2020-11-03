@@ -1,8 +1,6 @@
 /*
+ * Good stuff!
  * HC-SR04 example sketch
- *
- * https://create.arduino.cc/projecthub/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-036380
- *
  * by Isaac100
  */
 
